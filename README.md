@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ishan Singh Tomar 👋
 
-<!--
-**ishansinghtomar26-oss/ishansinghtomar26-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building AI-powered web applications and developer tools.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- FutureMe — Time-delayed email platform
+- CarbnrAI — AI-powered sustainability auditor
+- darX — Dark pattern detection Chrome extension
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+React • Node.js • Supabase • Firebase • Gemini AI • PostgreSQL
+
+## 🌐 Portfolio
+https://ishansinghtomar.tech
+
+## 📫 Contact
+ishansinghtomar26@gmail.com
+
